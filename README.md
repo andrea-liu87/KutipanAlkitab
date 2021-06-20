@@ -10,6 +10,13 @@
 Feel free to contribute or add sugestion/feature
 andreagiftmail@yahoo.com.sg
 
+![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss1.png)
+![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss2.png)
+![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/feature.png)
+
+### Download it
+<a href='https://play.google.com/store/apps/details?id=com.andreasgift.kutipanalkitab&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1'><img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png'/></a>
+
 MinSDKVersion : 23
 </br>Development Tool : Android Studio Library
 </br>Build Tools Version 30.0.3
