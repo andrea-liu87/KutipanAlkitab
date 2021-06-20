@@ -10,8 +10,8 @@
 Feel free to contribute or add sugestion/feature
 andreagiftmail@yahoo.com.sg
 
-![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss1.png = 324 x 576)
-![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss2.png = 324 x 576)
+![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss1.png = 324x576)
+![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/ss2.png = 324x576)
 ![Screenshoot](https://github.com/snufflesrea/KutipanAlkitab/blob/master/marketing/feature.png)
 
 ### Download it
