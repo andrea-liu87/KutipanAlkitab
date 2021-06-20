@@ -4,7 +4,7 @@
 
 ### Features:
 - Totally free
-- Without adds and can be played offline
+- No adds
 
 ### Contribute
 Feel free to contribute or add sugestion/feature
