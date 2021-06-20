@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="download_this_page">Unduh Halaman Ini</string>
+    <string name="set_as_alarm">Jadikan Alarm</string>
+    <string name="share">Bagikan</string>
+    <string name="download_success">Unduh Sukses</string>
+    <string name="permission_denied_download">Tidak Diijinkan untuk Mengunduh</string>
+</resources>

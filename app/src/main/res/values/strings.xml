@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name" translatable="false">Kutipan Alkitab</string>
+
+    <!-- Menu String -->
+    <string name="download_this_page">Download This Page</string>
+    <string name="set_as_alarm">Set as Alarm</string>
+    <string name="share">Share</string>
+
+    <!--    Main Activity -->
+    <string name="download_success">Download Success</string>
+    <string name="permission_denied_download">Permission is denied</string>
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "Kutipan Alkitab"
+include ':app'

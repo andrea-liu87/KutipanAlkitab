@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "777047665060",
+    "project_id": "kutipan-alkitab",
+    "storage_bucket": "kutipan-alkitab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777047665060:android:16c4f24403326fb18a7931",
+        "android_client_info": {
+          "package_name": "com.andreasgift.kutipanalkitab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777047665060-07a8gg37iks0oc418o4ql170pgdpjk6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCaFo5r_lAodtRZ9RsurrSPZSRm_1Ll9Jc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777047665060-07a8gg37iks0oc418o4ql170pgdpjk6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
