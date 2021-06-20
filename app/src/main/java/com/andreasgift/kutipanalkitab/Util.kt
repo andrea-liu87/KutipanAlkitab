@@ -7,11 +7,14 @@ object Util {
     val ALARM_ID = "alarm_id"
 
     fun getContent(prefs: SharedPreferences): String? {
-        return prefs.getString("CONTENT", "Tuhan adalah gembalaku takkan kekurangan aku")
+        return prefs.getString(
+            "CONTENT",
+            "Serahkanlah segala kekuatiranmu kepada-Nya, sebab Ia yang memelihara kamu"
+        )
     }
 
     fun getTitle(prefs: SharedPreferences): String? {
-        return prefs.getString("TITLE", "Mazmur 23:1")
+        return prefs.getString("TITLE", "1 Petrus 5:7")
     }
 
     fun saveContent(prefs: SharedPreferences, content: String) {
